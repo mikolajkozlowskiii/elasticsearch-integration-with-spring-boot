@@ -1,0 +1,5 @@
+elastic.integration:
+  esHost: localhost:9200
+  username: ${ELASTIC_USERNAME}
+  password: ${ELASTIC_PASSWORD}
+  fingerprint: ${ELASTIC_FINGERPRINT}
