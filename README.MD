@@ -74,7 +74,7 @@ Export your HTTP CA certificate SHA-256 fingerprint:
 export ELASTIC_FINGERPRINT="your_fingerprint"
 ```
 
-2. There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `com.example.chatbot.ChatbotApplication` class from your IDE.
+2. There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `com.example.elasticintegration.ElasticIntegrationApplication` class from your IDE.
 
 Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html) like so:
 ```shell
