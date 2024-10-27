@@ -40,11 +40,6 @@ For building and running the application you need:
 ## Running the Application
 
 1. Clone the repository.
-2. Update the Elasticsearch configuration in `application.properties` if necessary:
-   ```properties
-   spring.elasticsearch.uris=http://localhost:9200
-
-
 
 ## Running the Project
 1. Run Elasticsearch cluster. The easiest way is to install ES with Docker. Start a single-node cluster:
